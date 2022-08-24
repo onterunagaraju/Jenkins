@@ -6229,11 +6229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemoWithConsolAppTesting\\UnitTestProject\\UnitTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemo\\JenkinsDemoWithConsolAppTesting\\UnitTestProject\\UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemoWithConsolAppTesting\\UnitTestProject\\UnitTestProject.csproj",
+      "projectPath": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemo\\JenkinsDemoWithConsolAppTesting\\UnitTestProject\\UnitTestProject.csproj",
       "packagesPath": "C:\\Users\\Nagaraju_Onteru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemoWithConsolAppTesting\\UnitTestProject\\obj\\",
+      "outputPath": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemo\\JenkinsDemoWithConsolAppTesting\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nagaraju_Onteru\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6250,8 +6250,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting.csproj": {
-              "projectPath": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting.csproj"
+            "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemo\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting.csproj": {
+              "projectPath": "C:\\Users\\Nagaraju_Onteru\\Desktop\\JenkinsDemo\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting\\JenkinsDemoWithConsolAppTesting.csproj"
             }
           }
         }
